@@ -1,5 +1,6 @@
 h1 {
     text-align: center;
+    color: #D46A6A;
 }
 
 #cart {
@@ -53,6 +54,10 @@ h1 {
     width: 75%;
     margin: 0 auto 20px auto;
     font-size: 18px;
+}
+#form input{
+
+    
 }
 
 input {
